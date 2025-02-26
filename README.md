@@ -1,6 +1,6 @@
 # Luanti (formerly Minetest) Tools
 
-[Repository](https://github.com/GreenXenith/minetest-tools/) | [Issues](https://github.com/GreenXenith/minetest-tools/issues/)
+[Repository](https://github.com/GreenXenith/luanti-tools/) | [Issues](https://github.com/GreenXenith/luanti-tools/issues/)
 
 ## Features
 

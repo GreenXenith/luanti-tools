@@ -1,6 +1,6 @@
 {
     "name": "minetest-tools",
-    "displayName": "Luanti Tools",
+    "displayName": "Luanti Tools (formerly Minetest Tools)",
     "description": "Useful tools for Luanti developers.",
     "icon": "icon.png",
     "version": "1.4.3",
