@@ -7,8 +7,8 @@ const rootPath =
     vscode.workspace.workspaceFolders != undefined
         ? vscode.workspace.workspaceFolders[0].uri.fsPath
         : "";
-const doc_api_link =
-    "\n\n[View in lua_api.md](https://github.com/minetest/minetest/blob/5.9.1/doc/lua_api.md?plain=1#";
+const doc_api_link = // TODO: Fetch latest version from a config so we arent modifying code for API version bumps
+    "\n\n[View in lua_api.md](https://github.com/luanti-org/luanti/blob/5.11.0/doc/lua_api.md?plain=1#";
 const luacheckrc = `read_globals = {
     "DIR_DELIM", "INIT",
 

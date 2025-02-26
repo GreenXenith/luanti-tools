@@ -2,12 +2,12 @@
     "minetest": {
         "prefix": "minetest",
         "body": "minetest",
-        "description": "The Minetest namespace."
+        "description": "The legacy Luanti namespace."
     },
     "core": {
         "prefix": "core",
         "body": "core",
-        "description": "The Minetest namespace."
+        "description": "The Luanti namespace."
     },
 
     "dump": {

@@ -4,7 +4,7 @@
 
 ## Features
 
--   Minetest (5.9.1) Lua API code autocompletion
+-   Luanti (5.11.0) Lua API code autocompletion
 -   Mod and game folder structure boilerplates
 -   `.luacheckrc` generator (globals only)
 -   Formspec string syntax highlighting
