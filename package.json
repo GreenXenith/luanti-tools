@@ -3,7 +3,7 @@
     "displayName": "Luanti Tools (formerly Minetest Tools)",
     "description": "Useful tools for Luanti developers.",
     "icon": "icon.png",
-    "version": "1.4.3",
+    "version": "2.0.0",
     "author": {
         "name": "GreenXenith"
     },

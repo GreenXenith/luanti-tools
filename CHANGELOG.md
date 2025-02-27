@@ -1,3 +1,11 @@
+### 2.0.0: February 26, 2025
+
+-   Use Luanti name
+-   API autocompletion bumped to Luanti version 5.11.0
+-   Use `core` namespace instead of `minetest`
+-   Update lua_api.md link
+-   Various internal improvements
+
 ### 1.4.3: November 4, 2024
 
 -   API autocompletion bumped to Minetest version 5.9.1
